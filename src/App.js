@@ -8,6 +8,7 @@ function App() {
         {/* spotify logo*/}
          {/* login with spotify button*/}
          <Login/>
+
     </div>
   );
 }
